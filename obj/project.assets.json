@@ -490,11 +490,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\ws\\ws.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\ws\\websocket\\ws.csproj",
       "projectName": "ws",
-      "projectPath": "C:\\Users\\andre\\ws\\ws.csproj",
+      "projectPath": "C:\\Users\\andre\\ws\\websocket\\ws.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\ws\\obj\\",
+      "outputPath": "C:\\Users\\andre\\ws\\websocket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"

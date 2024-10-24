@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oei9gKBkLuC6uSkgEHWtyR1JGHI+nsKZqdayjHgamd+U5DKAqguatO2J/ptLbH5nVAJHZ2opgXKrC8kQveNKfQ==",
+  "dgSpecHash": "4kcIdGe1jj8/MfpZKzutVHE5ZSEIlMDh2reRwRY5InNGt8epIXmP9e6UlxETSJXKaNTyUZAoqRXtgIy7zY5G/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\ws\\ws.csproj",
+  "projectFilePath": "C:\\Users\\andre\\ws\\websocket\\ws.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\fleck\\1.2.0\\fleck.1.2.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
