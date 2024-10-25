@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre.silva\\Desktop\\Websocket\\ws-back\\ws.csproj": {}
+    "C:\\Users\\andre\\ws\\websocket\\ws.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre.silva\\Desktop\\Websocket\\ws-back\\ws.csproj": {
+    "C:\\Users\\andre\\ws\\websocket\\ws.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre.silva\\Desktop\\Websocket\\ws-back\\ws.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\ws\\websocket\\ws.csproj",
         "projectName": "ws",
-        "projectPath": "C:\\Users\\andre.silva\\Desktop\\Websocket\\ws-back\\ws.csproj",
-        "packagesPath": "C:\\Users\\andre.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre.silva\\Desktop\\Websocket\\ws-back\\obj\\",
+        "projectPath": "C:\\Users\\andre\\ws\\websocket\\ws.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\ws\\websocket\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre.silva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

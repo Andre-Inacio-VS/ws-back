@@ -21,7 +21,14 @@ server.Start(ws =>
     };
     ws.OnMessage = message =>
     {
-        app.InvokeClientEventHandler(clientEventHandlers, ws, message);
+        try
+        {
+            app.InvokeClientEventHandler(clientEventHandlers, ws, message);
+        }
+        catch (Exception ex)
+        {
+            // your exception handling here
+        }
     };
 });
 

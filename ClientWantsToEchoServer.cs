@@ -17,7 +17,7 @@ public class ClientWantsToEchoServer : BaseEventHandler<ClientWantsToEchoServerD
     {
         var echo = new ServerEchosClient()
         {
-            echoValue = "echo: " + dto.messageContent
+            echoValue = "echo: "+dto.messageContent
         };
         var messageToClient = JsonSerializer.Serialize(echo);
         socket.Send(messageToClient);
@@ -27,7 +27,7 @@ public class ClientWantsToEchoServer : BaseEventHandler<ClientWantsToEchoServerD
 }
 
 
-public class ServerEchosClient
+public class ServerEchosClient : BaseDto
 {
     public string echoValue { get; set; }
 }
